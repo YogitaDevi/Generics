@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC2_MaxFloat", "UC2_MaxFloat.csproj", "{D014A86C-D7F0-49DA-9C29-8E024992E217}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D014A86C-D7F0-49DA-9C29-8E024992E217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D014A86C-D7F0-49DA-9C29-8E024992E217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D014A86C-D7F0-49DA-9C29-8E024992E217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D014A86C-D7F0-49DA-9C29-8E024992E217}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44A1CEE1-84AC-458D-89B5-157E3E9D8A64}
+	EndGlobalSection
+EndGlobal
